@@ -1,3 +1,2 @@
-# js_app
-
+# js_homework
 Just a homework...
